@@ -28,10 +28,14 @@ A comprehensive comparison of YOLO v8 and YOLO v11, highlighting their strengths
 Insights into the feasibility of deploying advanced object detection models on devices with limited computational power.
 Recommendations for future research and potential improvements in weapon detection algorithms.
 ### Repository Structure
-data/: Contains the training and validation datasets.
-models/: Includes the trained YOLO v8 and YOLO v11 models.
-scripts/: Python scripts for training, testing, and evaluating the models.
-results/: Performance metrics and comparison results.
-docs/: Documentation and analysis reports.
+- data/: Contains the training and validation datasets.
+
+- models/: Includes the trained YOLO v8 and YOLO v11 models.
+
+- scripts/: Python scripts for training, testing, and evaluating the models.
+
+- results/: Performance metrics and comparison results.
+
+- docs/: Documentation and analysis reports.
 
 ## Getting Started: 
